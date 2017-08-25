@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.usablenet.mobile.walgreen",
+    "package_name": "com.axomsoft.applinktest",
     "sha256_cert_fingerprints":
-    ["4F:6A:9D:46:4E:12:CE:BA:65:2A:28:F7:87:14:2F:BB:C5:C5:CC:3E:9F:57:C0:42:19:81:9B:3B:99:F8:CF:CE"]
+    ["09:08:A7:19:62:41:DD:EF:58:52:39:A2:A5:B1:3C:3D:BD:A3:54:0F:59:9B:1C:9A:35:F2:8C:31:3B:77:5C:40"]
   }
 }]
